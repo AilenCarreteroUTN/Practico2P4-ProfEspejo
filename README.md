@@ -1,6 +1,7 @@
 ## **Práctico n°2:** FastAPI.
 
 El trabajo práctico n°3 profundiza en el desarrollo backend utilizando Python, explorando la creación de una API RESTful modular y robusta mediante el framework **FastAPI**. Este proyecto es una modificación del [repositorio original](https://github.com/profcarlosamartinez/fastapi_backend), donde se le ha implementado la gestión de clientes.
+
 ---
 
 ### 🛠️ **Tecnologías y conceptos cubiertos.**
@@ -20,15 +21,14 @@ El trabajo práctico n°3 profundiza en el desarrollo backend utilizando Python,
 ### 🚀 **¿Cómo ejecutarlo y ponerlo a prueba?**
 
 Para poner a prueba la API en tu entorno local, sigue estos pasos:
-1. 1. **Activar el entorno virtual:**
-   Sitúate en la raíz del proyecto desde tu terminal y activa el entorno:
+1. **Activar el entorno virtual:** Desde tu terminal y activa el entorno.
    * En Windows: `.venv\Scripts\activate`
    * En Linux/Mac: `source .venv/bin/activate`
 
-2. **Instalar las dependencias:** pip install -r requirements.txt
+2. **Instalar las dependencias:** `pip install -r requirements.txt`
 
-3. **Ejecutar el servidor local**: uvicorn app.main:app --reload
+3. **Ejecutar el servidor local**: `uvicorn app.main:app --reload`
 
 4. **Probar los Endpoints**:
     * Swagger UI: http://127.0.0.1:8000/docs
-    * REST Client: Mediante el archivo: tests/test_api.http
+    * REST Client: Mediante el archivo: `tests/test_api.http`
