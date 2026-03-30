@@ -1,6 +1,6 @@
 ## **Práctico n°2:** FastAPI.
 
-El trabajo práctico n°3 profundiza en el desarrollo backend utilizando Python, explorando la creación de una API RESTful modular y robusta mediante el framework **FastAPI**. Este proyecto es una modificación del [repositorio original](https://github.com/profcarlosamartinez/fastapi_backend), donde se le ha implementado la gestión de clientes.
+El trabajo práctico n°2 profundiza en el desarrollo backend utilizando Python, explorando la creación de una API RESTful modular y robusta mediante el framework **FastAPI**. Este proyecto es una modificación del [repositorio original](https://github.com/profcarlosamartinez/fastapi_backend), donde se le ha implementado la gestión de clientes.
 
 ---
 
